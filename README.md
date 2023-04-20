@@ -17,9 +17,9 @@ Used the provided information created a table schema for each of the six CSV fil
   - for the primary keys, verified that the column is unique;
   - created tables in the correct order to handle the foreign keys.
 
-Import each CSV file into its corresponding SQL table.
+Imported each CSV file into its corresponding SQL table.
 
-Data Analysis
+Data Analysis involved these tasks: 
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
 
